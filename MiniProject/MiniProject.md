@@ -6,21 +6,20 @@ Each project includes details about the **team**, **project name**, and a **dire
 
 ---
 
-## 🧠 Mini Projects
+## 🧠 Mini Projects — Batch 2022–2026
 
-| Group No. | Project Name | Team Members |
-|------------|---------------|---------------|
-| A1 | [Smart Attendance System ](https://github.com/example-link) | Alice M, Bob K, Carol D |
-| A2 | [AI Chat Assistant](https://github.com/example-link) | David R, Emma L | 
-| A3 | [College Bus Tracker](https://github.com/example-link) | Frank P, Grace N, Henry O | 
-| A4 | [Handwriting to Digital Text Convertor](https://github.com/Varalakshmi2354/Handwritting-to-digital-text) | 
-| A5 | [College Bus Tracker](https://github.com/example-link) | Frank P, Grace N, Henry O | 
-| A6 | [College Bus Tracker](https://github.com/example-link) | Frank P, Grace N, Henry O | 
-| A7 | [College Bus Tracker](https://github.com/example-link) | Frank P, Grace N, Henry O | 
-| B1 | [Smart Attendance System ](https://github.com/example-link) | Alice M, Bob K, Carol D |
-| B2 | [AI Chat Assistant](https://github.com/example-link) | David R, Emma L | 
-| B3 | [College Bus Tracker](https://github.com/example-link) | Frank P, Grace N, Henry O | 
-| B4 | [Handwriting to Digital Text Convertor](https://github.com/Varalakshmi2354/Handwritting-to-digital-text) | 
-| B5 | [College Bus Tracker](https://github.com/example-link) | Frank P, Grace N, Henry O | 
-| B6 | [College Bus Tracker](https://github.com/example-link) | Frank P, Grace N, Henry O | 
+| Group No. | Project Name | GitHub Link | Team Members |
+|----------|--------------|-------------|--------------|
+| A1 | — | — | — |
+| A2 | Career Catalyst | https://github.com/arathikrishnaam/careerCataylst | Arathi Krishna A M, Shahana K V, S Sreelakshmi |
+| A3 | Waste Classification using Object Detection | https://github.com/Meena-Girish1/Waste-classification-using-object-detection | Anupama C M, Haritha R, Meena Girish, Vandhana A R |
+| A5 | Attendance System using Face Recognition | https://github.com/AryaS004/Attendance-System-using-Face-Recognition | Abhinaya M A, Arya S, Vandhana M S, Gauri N V |
+| A7 | Weather Forecast Prediction Website (Sky Update) | https://github.com/Meerapaul/skyupdate | Lekshmi Priya S S, Meera Paul A B, Uttara Praveen |
+| B8 | — | — | — |
+| B9 | Clothing Price Comparison System | https://github.com/NismaReyasath/Clothing-Price-Comparison-System | Lalithya Dev S R, Mehreen Fathima, Nisma Reyasath, Varsha K |
+| B10 | Calorie Burnt Prediction using ML (BurnHive) | https://github.com/abhiramiramadas/Burnhive | Abhirami Ramadas, Aiswarya Rajeev Nair, Anola Saju, Gopika S S |
+| B11 | YouTube Video Summarizer | https://github.com/meenakshi-naveen04/youtube-video-summarizer | Adhithya S, Akshaya V P, Anjali Krishna, Meenakshi Naveen |
+| B13 | — | — | — |
+
 ---
+
